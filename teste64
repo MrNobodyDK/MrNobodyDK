@@ -2,6 +2,7 @@
 {"user_id": 27, "value": "V.01", "id": 37, "name": "app_name"},
 {"user_id": 27, "value": "https://telegra.ph/file/89d0b5750b96d45468adf.png","id": 2163, "name": "app_background_image"},
 {"user_id": 27, "value": "https://telegra.ph/file/081f1453164feb1cbc9a4.png", "id": 2386, "name": "app_logo"},
+{"user_id": 27, "value": "#FFFFFF", "id": 40, "name": "text_color"},
 {"user_id": 27, "value": "#00000000", "id": 2165, "name": "background_color"},
 {"user_id": 27, "value": "#FF151515", "id": 39, "name": "card_color"},
 {"user_id": 27, "value": "#FF151515", "id": 390, "name": "card_color_logo"},
