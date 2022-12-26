@@ -10,7 +10,7 @@
 {"user_id": 27, "value": "#FF151515", "id": 392, "name": "status_color"},
 {"user_id": 27, "value": "200", "id": 2383, "name": "logo_height"},
 {"user_id": 27, "value": "500", "id": 2384, "name": "logo_width"},
-{"user_id": 27, "value": "#FFFFFF", "id": 41, "name": "button_color"},
+{"user_id": 27, "value": "#FF181818", "id": 41, "name": "button_color"},
 {"user_id": 27, "value": "#FFFFFF", "id": 42, "name": "icon_color"},
 {"user_id": 27, "value": "#FFFFFF", "id": 556, "name": "border_color"},
 {"user_id": 27, "value": "#FFFFFF", "id": 2382, "name": "border_color"},
