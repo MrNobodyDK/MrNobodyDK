@@ -1,12 +1,12 @@
 {
-  "latestVersion": "2.8",
+  "latestVersion": "2.8fix",
   "titulo": "NOVO MOD DISPONÍVEL",
-  "botao": "ABRIR",
+  "botao": "ATUALIZAR",
   "latestVersionCode": "37",
   "url": "https://telegram.dog/MrNobodyDKChannel",
   "releaseNotes": [
-    "- VERSÃO 2.8",
-    "- ATUALIZE PARA FICAR POR DENTRO DAS NOVIDADES",
+    "- VERSÃO 2.8 Fix",
+    "- Correção de falso-positivo do Avast",
 	"- CLIQUE EM ATUALIZAR"
   ]
 }
