@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg", SBT
+https://s1.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png", Globo
+https://s1.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png", Record
+https://s1.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg", Band
+https://s1.micineovs.com/BAND/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/05/Logotipo_da_RedeTV%21_%282015%E2%80%932019%29.png", RedeTV
+https://s1.micineovs.com/RedeTV/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/Q6evCwM.png", Globoplay Novelas (VIVA)
+https://s1.micineovs.com/VIVA/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg", Multishow
+https://s1.micineovs.com/Multishow/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://e7.pngegg.com/pngimages/733/502/png-clipart-tnt-series-turner-broadcasting-system-television-logo-comedy-miscellaneous-text.png", TNT
+https://s1.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo-8.png", MEGAPIX
+https://s1.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://i.imgur.com/RkqVOFx.png", Telecine Pipoca
+https://s1.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/dQndobe.png", Telecine Premium
+https://s1.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://s01.video.glbimg.com/x216/11869976.jpg", SporTV 1
+https://s1.micineovs.com/SPTV1/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://s01.video.glbimg.com/x216/11869976.jpg", SporTV 2
+https://s1.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://play-lh.googleusercontent.com/ibgef_YvMpb3I0yHgRbtp78AXJI9YQi56j-RolGp3IhIK1bfLmhmVbllxFnBVj-ka6d7", Premiere Clubes
+https://s1.micineovs.com/PREMIERECLUBES/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png", ESPN 1
+https://s1.micineovs.com/ESPN1/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-Logo-2004-500x281.png", Cartoon Network
+https://s1.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/e9f2m2z.png", Todo Mundo Odeia o Chris 24H
+https://s1.micineovs.com/Chris24h/index.m3u8?token=16FOTt9Ae2m8
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/4z5RugY.png", Eu, a Patroa e as Crianças
+https://s1.micineovs.com/EPC/index.m3u8?token=16FOTt9Ae2m8
