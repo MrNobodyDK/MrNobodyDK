@@ -53,6 +53,844 @@ https://s1.micineovs.com/Chris24h/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/4z5RugY.png", Eu, a Patroa e as Crianças
 https://s1.micineovs.com/EPC/index.m3u8?token=16FOTt9Ae2m8
 
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo RJ 98.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="RITMOS",Rádio Globo RJ 98.1 FM
+http://morpy99.org:80/P56KFk/aXUURb/149370
+#EXTINF:-1 tvg-id="" tvg-name="Band Vale 102.9 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Band Vale 102.9 FM
+http://morpy99.org:80/P56KFk/aXUURb/152603
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hair Bands" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="INTERNACIONAIS",Radio Hair Bands
+http://morpy99.org:80/P56KFk/aXUURb/137151
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Band FM 96.1 FM" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Rádio Band FM 96.1 FM
+http://morpy99.org:80/P56KFk/aXUURb/149373
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND 4K" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | 4K - H265",BAND 4K
+http://morpy99.org:80/P56KFk/aXUURb/83435
+#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band Bahia HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band Bahia HD
+http://morpy99.org:80/P56KFk/aXUURb/151160
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND Brasilia FHD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND Brasilia FHD
+http://morpy99.org:80/P56KFk/aXUURb/163695
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND Brasilia HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND Brasilia HD
+http://morpy99.org:80/P56KFk/aXUURb/83439
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND Campinas HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND Campinas HD
+http://morpy99.org:80/P56KFk/aXUURb/195185
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND Campinas SD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND Campinas SD
+http://morpy99.org:80/P56KFk/aXUURb/195184
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND Cascavel TV Taroba" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND Cascavel TV Taroba
+http://morpy99.org:80/P56KFk/aXUURb/288603
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND Ceará FHD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND Ceará FHD
+http://morpy99.org:80/P56KFk/aXUURb/288602
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND Curitiba HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND Curitiba HD
+http://morpy99.org:80/P56KFk/aXUURb/151319
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND FHD [Alt]" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147442
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND HD [Alt]" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147443
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND MG FHD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND MG FHD
+http://morpy99.org:80/P56KFk/aXUURb/162945
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND MG HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND MG HD
+http://morpy99.org:80/P56KFk/aXUURb/260033
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND MG SD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND MG SD
+http://morpy99.org:80/P56KFk/aXUURb/83591
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND Natal HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND Natal HD
+http://morpy99.org:80/P56KFk/aXUURb/288604
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News FHD" tvg-logo="https://raphmx00.com/bandnews.png" group-title="Canais | Notícias",BAND News FHD
+http://morpy99.org:80/P56KFk/aXUURb/139115
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News FHD [Alt]" tvg-logo="https://raphmx00.com/bandnews.png" group-title="Canais | Notícias",BAND News FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147444
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News FHD [H265]" tvg-logo="https://raphmx00.com/bandnews.png" group-title="Canais | 4K - H265",BAND News FHD [H265]
+http://morpy99.org:80/P56KFk/aXUURb/83370
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News HD" tvg-logo="https://raphmx00.com/bandnews.png" group-title="Canais | Notícias",BAND News HD
+http://morpy99.org:80/P56KFk/aXUURb/83308
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News HD [Alt]" tvg-logo="https://raphmx00.com/bandnews.png" group-title="Canais | Notícias",BAND News HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147445
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BAND News SD" tvg-logo="https://raphmx00.com/bandnews.png" group-title="Canais | Notícias",BAND News SD
+http://morpy99.org:80/P56KFk/aXUURb/83528
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band PA HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band PA HD
+http://morpy99.org:80/P56KFk/aXUURb/162759
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RJ FHD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band RJ FHD
+http://morpy99.org:80/P56KFk/aXUURb/195180
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RJ HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band RJ HD
+http://morpy99.org:80/P56KFk/aXUURb/195179
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RJ SD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band RJ SD
+http://morpy99.org:80/P56KFk/aXUURb/287469
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RS FHD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band RS FHD
+http://morpy99.org:80/P56KFk/aXUURb/83772
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RS HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band RS HD
+http://morpy99.org:80/P56KFk/aXUURb/156620
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RS SD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",Band RS SD
+http://morpy99.org:80/P56KFk/aXUURb/195186
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP FHD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND SP FHD
+http://morpy99.org:80/P56KFk/aXUURb/83769
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP FHD [H265]" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | 4K - H265",BAND SP FHD [H265]
+http://morpy99.org:80/P56KFk/aXUURb/83726
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP HD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND SP HD
+http://morpy99.org:80/P56KFk/aXUURb/163037
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP SD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND SP SD
+http://morpy99.org:80/P56KFk/aXUURb/83440
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND Sports FHD" tvg-logo="https://raphmx00.com/bandsports.png" group-title="Canais | Esportes",BAND Sports FHD
+http://morpy99.org:80/P56KFk/aXUURb/83806
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND Sports FHD [Alt]" tvg-logo="https://raphmx00.com/bandsports.png" group-title="Canais | Esportes",BAND Sports FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147446
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND Sports FHD [H265]" tvg-logo="https://raphmx00.com/bandsports.png" group-title="Canais | 4K - H265",BAND Sports FHD [H265]
+http://morpy99.org:80/P56KFk/aXUURb/83371
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND Sports HD" tvg-logo="https://raphmx00.com/bandsports.png" group-title="Canais | Esportes",BAND Sports HD
+http://morpy99.org:80/P56KFk/aXUURb/83189
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND Sports HD [Alt]" tvg-logo="https://raphmx00.com/bandsports.png" group-title="Canais | Esportes",BAND Sports HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147447
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND Sports SD" tvg-logo="https://raphmx00.com/bandsports.png" group-title="Canais | Esportes",BAND Sports SD
+http://morpy99.org:80/P56KFk/aXUURb/83529
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND TV Tribuna Recife FHD" tvg-logo="https://raphmx00.com/band.png" group-title="Canais | Abertos",BAND TV Tribuna Recife FHD
+http://morpy99.org:80/P56KFk/aXUURb/288605
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Araxá MG FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Araxá MG FHD
+http://morpy99.org:80/P56KFk/aXUURb/162710
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Araxá MG HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Araxá MG HD
+http://morpy99.org:80/P56KFk/aXUURb/162709
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Araxá MG SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Araxá MG SD
+http://morpy99.org:80/P56KFk/aXUURb/162708
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador FHD
+http://morpy99.org:80/P56KFk/aXUURb/132027
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147391
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador HD
+http://morpy99.org:80/P56KFk/aXUURb/132028
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147392
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Bahia Salvador SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Bahia Salvador SD
+http://morpy99.org:80/P56KFk/aXUURb/83644
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia FHD
+http://morpy99.org:80/P56KFk/aXUURb/154000
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147395
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia HD
+http://morpy99.org:80/P56KFk/aXUURb/83455
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147396
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Brasilia SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Brasilia SD
+http://morpy99.org:80/P56KFk/aXUURb/83564
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas FHD
+http://morpy99.org:80/P56KFk/aXUURb/83504
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147370
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD
+http://morpy99.org:80/P56KFk/aXUURb/83503
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147371
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Campinas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Campinas SD
+http://morpy99.org:80/P56KFk/aXUURb/83550
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos FHD
+http://morpy99.org:80/P56KFk/aXUURb/83515
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos HD
+http://morpy99.org:80/P56KFk/aXUURb/162804
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Central Sao Carlos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos SD
+http://morpy99.org:80/P56KFk/aXUURb/83549
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Ribeirao Preto FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto FHD
+http://morpy99.org:80/P56KFk/aXUURb/83434
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Ribeirao Preto HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto HD
+http://morpy99.org:80/P56KFk/aXUURb/83514
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Ribeirao Preto SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto SD
+http://morpy99.org:80/P56KFk/aXUURb/165432
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Sul de Minas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas FHD
+http://morpy99.org:80/P56KFk/aXUURb/162812
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Sul de Minas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas HD
+http://morpy99.org:80/P56KFk/aXUURb/83516
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB EPTV Sul de Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas SD
+http://morpy99.org:80/P56KFk/aXUURb/284490
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Integração Divinópolis FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Integração Divinópolis FHD
+http://morpy99.org:80/P56KFk/aXUURb/162717
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Integração Divinópolis HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Integração Divinópolis HD
+http://morpy99.org:80/P56KFk/aXUURb/162675
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Integração DIvinópolis SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Integração DIvinópolis SD
+http://morpy99.org:80/P56KFk/aXUURb/151322
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral FHD
+http://morpy99.org:80/P56KFk/aXUURb/162707
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147406
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral HD
+http://morpy99.org:80/P56KFk/aXUURb/162706
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Alto Litoral SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral SD
+http://morpy99.org:80/P56KFk/aXUURb/162705
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Cabugi Natal FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal FHD
+http://morpy99.org:80/P56KFk/aXUURb/162784
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Cabugi Natal HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal HD
+http://morpy99.org:80/P56KFk/aXUURb/162785
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Cabugi Natal SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal SD
+http://morpy99.org:80/P56KFk/aXUURb/147407
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV dos Vales FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV dos Vales FHD
+http://morpy99.org:80/P56KFk/aXUURb/162713
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV dos Vales HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV dos Vales HD
+http://morpy99.org:80/P56KFk/aXUURb/162712
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Serra Mar FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar FHD
+http://morpy99.org:80/P56KFk/aXUURb/150157
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Inter TV Serra Mar HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar HD
+http://morpy99.org:80/P56KFk/aXUURb/150156
+#EXTINF:-1 tvg-id="br#globosat-1" tvg-name="GB Inter TV Serra Mar SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar SD
+http://morpy99.org:80/P56KFk/aXUURb/164591
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas FHD
+http://morpy99.org:80/P56KFk/aXUURb/165439
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas HD
+http://morpy99.org:80/P56KFk/aXUURb/165440
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
+http://morpy99.org:80/P56KFk/aXUURb/162674
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas FHD
+http://morpy99.org:80/P56KFk/aXUURb/162792
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147374
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas HD
+http://morpy99.org:80/P56KFk/aXUURb/83491
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147375
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Minas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Minas SD
+http://morpy99.org:80/P56KFk/aXUURb/83565
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife FHD
+http://morpy99.org:80/P56KFk/aXUURb/162790
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147376
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife HD
+http://morpy99.org:80/P56KFk/aXUURb/162791
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147377
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Nordeste Recife SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Nordeste Recife SD
+http://morpy99.org:80/P56KFk/aXUURb/83567
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau FHD
+http://morpy99.org:80/P56KFk/aXUURb/162778
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147410
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau HD
+http://morpy99.org:80/P56KFk/aXUURb/83489
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Blumenau HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147670
+#EXTINF:-1 tvg-id="br#gloob-hd" tvg-name="GB NSC TV Centro Oeste FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste FHD
+http://morpy99.org:80/P56KFk/aXUURb/193334
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Centro Oeste HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste HD
+http://morpy99.org:80/P56KFk/aXUURb/193333
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Centro Oeste SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste SD
+http://morpy99.org:80/P56KFk/aXUURb/126115
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Chapeco FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco FHD
+http://morpy99.org:80/P56KFk/aXUURb/162714
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Chapeco HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco HD
+http://morpy99.org:80/P56KFk/aXUURb/147411
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Chapeco SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco SD
+http://morpy99.org:80/P56KFk/aXUURb/162715
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Criciúma FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma FHD
+http://morpy99.org:80/P56KFk/aXUURb/162789
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Criciúma FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147412
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Criciúma HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma HD
+http://morpy99.org:80/P56KFk/aXUURb/162771
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianopolis FHD
+http://morpy99.org:80/P56KFk/aXUURb/162775
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianopolis SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianopolis SD
+http://morpy99.org:80/P56KFk/aXUURb/162777
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianópolis FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147379
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianópolis HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis HD
+http://morpy99.org:80/P56KFk/aXUURb/83500
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Florianópolis HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147380
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Joinville FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Joinville FHD
+http://morpy99.org:80/P56KFk/aXUURb/162719
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Joinville FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Joinville FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147413
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB NSC TV Joinville HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB NSC TV Joinville HD
+http://morpy99.org:80/P56KFk/aXUURb/162718
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB PB TV Paraíba HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB PB TV Paraíba HD
+http://morpy99.org:80/P56KFk/aXUURb/147726
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB PE Asa Branca FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB PE Asa Branca FHD
+http://morpy99.org:80/P56KFk/aXUURb/152922
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB PE Asa Branca HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB PE Asa Branca HD
+http://morpy99.org:80/P56KFk/aXUURb/151324
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Caxias do Sul FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul FHD
+http://morpy99.org:80/P56KFk/aXUURb/83438
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Caxias do Sul HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul HD
+http://morpy99.org:80/P56KFk/aXUURb/83333
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Caxias do Sul SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul SD
+http://morpy99.org:80/P56KFk/aXUURb/147414
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Cruz Alta FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Cruz Alta FHD
+http://morpy99.org:80/P56KFk/aXUURb/83579
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Cruz Alta HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Cruz Alta HD
+http://morpy99.org:80/P56KFk/aXUURb/165433
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Passo Fundo FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo FHD
+http://morpy99.org:80/P56KFk/aXUURb/162761
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Passo Fundo HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo HD
+http://morpy99.org:80/P56KFk/aXUURb/162803
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Passo Fundo SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo SD
+http://morpy99.org:80/P56KFk/aXUURb/154680
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Pelotas FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas FHD
+http://morpy99.org:80/P56KFk/aXUURb/86690
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Pelotas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas HD
+http://morpy99.org:80/P56KFk/aXUURb/86691
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Pelotas SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas SD
+http://morpy99.org:80/P56KFk/aXUURb/147415
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre FHD
+http://morpy99.org:80/P56KFk/aXUURb/154096
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147381
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre HD
+http://morpy99.org:80/P56KFk/aXUURb/83462
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147382
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Porto Alegre SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre SD
+http://morpy99.org:80/P56KFk/aXUURb/83611
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Santa Maria FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria FHD
+http://morpy99.org:80/P56KFk/aXUURb/287472
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Santa Maria HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria HD
+http://morpy99.org:80/P56KFk/aXUURb/147416
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RBS TV Santa Maria SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria SD
+http://morpy99.org:80/P56KFk/aXUURb/287471
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazonica Porto Velho HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazonica Porto Velho HD
+http://morpy99.org:80/P56KFk/aXUURb/163693
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Manaus FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus FHD
+http://morpy99.org:80/P56KFk/aXUURb/162793
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Manaus HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus HD
+http://morpy99.org:80/P56KFk/aXUURb/83497
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Manaus SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus SD
+http://morpy99.org:80/P56KFk/aXUURb/147417
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Porto Velho FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Porto Velho FHD
+http://morpy99.org:80/P56KFk/aXUURb/152928
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rio Branco FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rio Branco FHD
+http://morpy99.org:80/P56KFk/aXUURb/152927
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rio Branco HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rio Branco HD
+http://morpy99.org:80/P56KFk/aXUURb/163694
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rondônia FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rondônia FHD
+http://morpy99.org:80/P56KFk/aXUURb/162734
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Amazônica Rondônia HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rondônia HD
+http://morpy99.org:80/P56KFk/aXUURb/165434
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Boa Vista FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Boa Vista FHD
+http://morpy99.org:80/P56KFk/aXUURb/162554
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Boa Vista HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Boa Vista HD
+http://morpy99.org:80/P56KFk/aXUURb/162683
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Macapá FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Macapá FHD
+http://morpy99.org:80/P56KFk/aXUURb/162723
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Rede Macapá HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Rede Macapá HD
+http://morpy99.org:80/P56KFk/aXUURb/162685
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ FHD
+http://morpy99.org:80/P56KFk/aXUURb/83502
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147384
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ HD
+http://morpy99.org:80/P56KFk/aXUURb/83459
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147385
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RJ SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RJ SD
+http://morpy99.org:80/P56KFk/aXUURb/83568
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Cascavel FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Cascavel FHD
+http://morpy99.org:80/P56KFk/aXUURb/83330
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Cascavel HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Cascavel HD
+http://morpy99.org:80/P56KFk/aXUURb/83298
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Cascavel SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Cascavel SD
+http://morpy99.org:80/P56KFk/aXUURb/83289
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Curitiba FHD
+http://morpy99.org:80/P56KFk/aXUURb/154280
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Curitiba FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147386
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Curitiba HD
+http://morpy99.org:80/P56KFk/aXUURb/83493
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Curitiba SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Curitiba SD
+http://morpy99.org:80/P56KFk/aXUURb/147387
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Foz do Iguaçu FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu FHD
+http://morpy99.org:80/P56KFk/aXUURb/86704
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Foz do Iguaçu HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu HD
+http://morpy99.org:80/P56KFk/aXUURb/86705
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Foz do Iguaçu SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu SD
+http://morpy99.org:80/P56KFk/aXUURb/147418
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Londrina HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Londrina HD
+http://morpy99.org:80/P56KFk/aXUURb/318230
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Maringa FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Maringa FHD
+http://morpy99.org:80/P56KFk/aXUURb/162704
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Maringa HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Maringa HD
+http://morpy99.org:80/P56KFk/aXUURb/162703
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Maringá FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Maringá FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147419
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Ponta Grossa FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa FHD
+http://morpy99.org:80/P56KFk/aXUURb/162698
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Ponta Grossa FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147420
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC Ponta Grossa HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa HD
+http://morpy99.org:80/P56KFk/aXUURb/162699
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC TV Paranavai FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC TV Paranavai FHD
+http://morpy99.org:80/P56KFk/aXUURb/162722
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB RPC TV Paranavai HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB RPC TV Paranavai HD
+http://morpy99.org:80/P56KFk/aXUURb/162721
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP 4K" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | 4K - H265",GB SP 4K
+http://morpy99.org:80/P56KFk/aXUURb/151058
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP FHD
+http://morpy99.org:80/P56KFk/aXUURb/83510
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147388
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | 4K - H265",GB SP FHD [H265]
+http://morpy99.org:80/P56KFk/aXUURb/155266
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP HD
+http://morpy99.org:80/P56KFk/aXUURb/83461
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147389
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB SP SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB SP SD
+http://morpy99.org:80/P56KFk/aXUURb/83569
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás FHD
+http://morpy99.org:80/P56KFk/aXUURb/162787
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147404
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás HD
+http://morpy99.org:80/P56KFk/aXUURb/83270
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147405
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Goiás SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás SD
+http://morpy99.org:80/P56KFk/aXUURb/83642
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Anhanguera Palmas HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Anhanguera Palmas HD
+http://morpy99.org:80/P56KFk/aXUURb/339235
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Asa Branca Caruaru FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Asa Branca Caruaru FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147421
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Cabo Branco FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Cabo Branco FHD
+http://morpy99.org:80/P56KFk/aXUURb/153908
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Cabo Branco HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Cabo Branco HD
+http://morpy99.org:80/P56KFk/aXUURb/162696
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Cabo Branco SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Cabo Branco SD
+http://morpy99.org:80/P56KFk/aXUURb/83590
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Centro America Cuiabá FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147368
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Centro América Cuiabá HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147369
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Clube Teresina FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Clube Teresina FHD
+http://morpy99.org:80/P56KFk/aXUURb/147728
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Clube Teresina HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Clube Teresina HD
+http://morpy99.org:80/P56KFk/aXUURb/162749
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Clube Teresina SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Clube Teresina SD
+http://morpy99.org:80/P56KFk/aXUURb/83508
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Diario Mogi das Cruzes FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes FHD
+http://morpy99.org:80/P56KFk/aXUURb/162745
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Diario Mogi das Cruzes HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes HD
+http://morpy99.org:80/P56KFk/aXUURb/83313
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Diario Mogi das Cruzes SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes SD
+http://morpy99.org:80/P56KFk/aXUURb/162746
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Fronteira Presidente Prudente FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Fronteira Presidente Prudente FHD
+http://morpy99.org:80/P56KFk/aXUURb/162672
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Fronteira Presidente Prudente HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Fronteira Presidente Prudente HD
+http://morpy99.org:80/P56KFk/aXUURb/162673
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta Alagoas FHD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas FHD
+http://morpy99.org:80/P56KFk/aXUURb/162691
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta Alagoas FHD [Alt]" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147422
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta Alagoas HD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas HD
+http://morpy99.org:80/P56KFk/aXUURb/162692
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta Alagoas SD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas SD
+http://morpy99.org:80/P56KFk/aXUURb/139482
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Sul FHD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Sul FHD
+http://morpy99.org:80/P56KFk/aXUURb/162687
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Sul HD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Sul HD
+http://morpy99.org:80/P56KFk/aXUURb/162688
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Vitoria FHD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria FHD
+http://morpy99.org:80/P56KFk/aXUURb/162684
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Vitoria FHD [Alt]" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147401
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Vitoria HD" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria HD
+http://morpy99.org:80/P56KFk/aXUURb/162686
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Gazeta ES Vitoria HD [Alt]" tvg-logo="https://raphmx00.com/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147408
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Juiz de Fora FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora FHD
+http://morpy99.org:80/P56KFk/aXUURb/162681
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Juiz de Fora HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora HD
+http://morpy99.org:80/P56KFk/aXUURb/162682
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Juiz de Fora SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora SD
+http://morpy99.org:80/P56KFk/aXUURb/147424
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberaba FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba FHD
+http://morpy99.org:80/P56KFk/aXUURb/83205
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberaba HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba HD
+http://morpy99.org:80/P56KFk/aXUURb/83401
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberaba SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba SD
+http://morpy99.org:80/P56KFk/aXUURb/83381
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberlandia FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberlandia FHD
+http://morpy99.org:80/P56KFk/aXUURb/162694
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberlandia HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberlandia HD
+http://morpy99.org:80/P56KFk/aXUURb/162697
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Integracao Uberlandia SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Integracao Uberlandia SD
+http://morpy99.org:80/P56KFk/aXUURb/162760
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belem FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belem FHD
+http://morpy99.org:80/P56KFk/aXUURb/162744
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147393
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD
+http://morpy99.org:80/P56KFk/aXUURb/83506
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147394
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Liberal Belém SD
+http://morpy99.org:80/P56KFk/aXUURb/83649
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante Cocais FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante Cocais FHD
+http://morpy99.org:80/P56KFk/aXUURb/162720
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante Cocais HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante Cocais HD
+http://morpy99.org:80/P56KFk/aXUURb/162783
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís FHD
+http://morpy99.org:80/P56KFk/aXUURb/162742
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147397
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís HD
+http://morpy99.org:80/P56KFk/aXUURb/83498
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Mirante São Luís HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147398
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Morena MS FHD
+http://morpy99.org:80/P56KFk/aXUURb/162733
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Morena MS FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147399
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Morena MS HD
+http://morpy99.org:80/P56KFk/aXUURb/83479
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Morena MS HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Morena MS HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147400
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Rio Sul FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Rio Sul FHD
+http://morpy99.org:80/P56KFk/aXUURb/162782
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Rio Sul HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Rio Sul HD
+http://morpy99.org:80/P56KFk/aXUURb/83499
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Rio Sul SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Rio Sul SD
+http://morpy99.org:80/P56KFk/aXUURb/147425
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Santa Cruz FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Santa Cruz FHD
+http://morpy99.org:80/P56KFk/aXUURb/147426
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Santa Cruz HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Santa Cruz HD
+http://morpy99.org:80/P56KFk/aXUURb/284945
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Santa Cruz SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Santa Cruz SD
+http://morpy99.org:80/P56KFk/aXUURb/284944
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Sergipe Aracaju FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju FHD
+http://morpy99.org:80/P56KFk/aXUURb/83460
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Sergipe Aracaju HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju HD
+http://morpy99.org:80/P56KFk/aXUURb/147427
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Sergipe Aracaju SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju SD
+http://morpy99.org:80/P56KFk/aXUURb/83775
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Subae FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Subae FHD
+http://morpy99.org:80/P56KFk/aXUURb/83546
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Subae HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Subae HD
+http://morpy99.org:80/P56KFk/aXUURb/162779
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Subae SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Subae SD
+http://morpy99.org:80/P56KFk/aXUURb/162750
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Bauru FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Bauru FHD
+http://morpy99.org:80/P56KFk/aXUURb/162736
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Bauru HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Bauru HD
+http://morpy99.org:80/P56KFk/aXUURb/162737
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Bauru SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Bauru SD
+http://morpy99.org:80/P56KFk/aXUURb/83652
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Itapetininga HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Itapetininga HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/162676
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba FHD
+http://morpy99.org:80/P56KFk/aXUURb/152579
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba HD
+http://morpy99.org:80/P56KFk/aXUURb/162466
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147373
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba SD
+http://morpy99.org:80/P56KFk/aXUURb/83654
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem Sorocaba SD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba SD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147372
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem São José do Rio Preto FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto FHD
+http://morpy99.org:80/P56KFk/aXUURb/162678
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem São José do Rio Preto HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto HD
+http://morpy99.org:80/P56KFk/aXUURb/162679
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tem São José do Rio Preto SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto SD
+http://morpy99.org:80/P56KFk/aXUURb/162680
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tribuna Santos FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos FHD
+http://morpy99.org:80/P56KFk/aXUURb/150151
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tribuna Santos HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos HD
+http://morpy99.org:80/P56KFk/aXUURb/150150
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Tribuna Santos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos SD
+http://morpy99.org:80/P56KFk/aXUURb/83655
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda S.J. dos Campos FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos FHD
+http://morpy99.org:80/P56KFk/aXUURb/140740
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda S.J. dos Campos HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos HD
+http://morpy99.org:80/P56KFk/aXUURb/140741
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda S.J. dos Campos SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos SD
+http://morpy99.org:80/P56KFk/aXUURb/83656
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda Taubate FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate FHD
+http://morpy99.org:80/P56KFk/aXUURb/169522
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda Taubate HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate HD
+http://morpy99.org:80/P56KFk/aXUURb/169521
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Vanguarda Taubate SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate SD
+http://morpy99.org:80/P56KFk/aXUURb/169520
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará FHD
+http://morpy99.org:80/P56KFk/aXUURb/162741
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará FHD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147402
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará HD
+http://morpy99.org:80/P56KFk/aXUURb/83507
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará HD [Alt]" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147403
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB TV Verdes Mares Ceará SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará SD
+http://morpy99.org:80/P56KFk/aXUURb/83657
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Verdes Mares Cariri FHD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Verdes Mares Cariri FHD
+http://morpy99.org:80/P56KFk/aXUURb/162743
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Verdes Mares Cariri HD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Verdes Mares Cariri HD
+http://morpy99.org:80/P56KFk/aXUURb/162711
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="GB Verdes Mares Cariri SD" tvg-logo="https://raphmx00.com/globo.png" group-title="Canais | Globos",GB Verdes Mares Cariri SD
+http://morpy99.org:80/P56KFk/aXUURb/162702
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD" tvg-logo="https://raphmx00.com/globonews.png" group-title="Canais | Notícias",Globo News FHD
+http://morpy99.org:80/P56KFk/aXUURb/139102
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD [Alt]" tvg-logo="https://raphmx00.com/globonews.png" group-title="Canais | Notícias",Globo News FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147572
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD [H265]" tvg-logo="https://raphmx00.com/globonews.png" group-title="Canais | 4K - H265",Globo News FHD [H265]
+http://morpy99.org:80/P56KFk/aXUURb/83391
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://raphmx00.com/globonews.png" group-title="Canais | Notícias",Globo News HD
+http://morpy99.org:80/P56KFk/aXUURb/83219
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD [Alt]" tvg-logo="https://raphmx00.com/globonews.png" group-title="Canais | Notícias",Globo News HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147573
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News SD" tvg-logo="https://raphmx00.com/globonews.png" group-title="Canais | Notícias",Globo News SD
+http://morpy99.org:80/P56KFk/aXUURb/83566
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record BA Itapoan FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record BA Itapoan FHD
+http://morpy99.org:80/P56KFk/aXUURb/162665
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record BA Itapoan HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record BA Itapoan HD
+http://morpy99.org:80/P56KFk/aXUURb/163692
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record BA Itapoan HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record BA Itapoan HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record BA Itapoan HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147650
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record BA Itapoan SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record BA Itapoan SD
+http://morpy99.org:80/P56KFk/aXUURb/169528
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Bauru HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Bauru HD
+http://morpy99.org:80/P56KFk/aXUURb/351571
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Bauru SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Bauru SD
+http://morpy99.org:80/P56KFk/aXUURb/351572
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Belém FHD
+http://morpy99.org:80/P56KFk/aXUURb/162769
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Belém HD
+http://morpy99.org:80/P56KFk/aXUURb/83469
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Belém SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Belém SD
+http://morpy99.org:80/P56KFk/aXUURb/162768
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Brasília FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Brasília FHD
+http://morpy99.org:80/P56KFk/aXUURb/165428
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Brasília HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Brasília HD
+http://morpy99.org:80/P56KFk/aXUURb/157301
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Brasília HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Brasília HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/169518
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Brasília SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Brasília SD
+http://morpy99.org:80/P56KFk/aXUURb/162765
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Cabralia FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Cabralia FHD
+http://morpy99.org:80/P56KFk/aXUURb/147669
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Cabralia HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Cabralia HD
+http://morpy99.org:80/P56KFk/aXUURb/164593
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Campinas FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Campinas FHD
+http://morpy99.org:80/P56KFk/aXUURb/157300
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Campinas HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Campinas HD
+http://morpy99.org:80/P56KFk/aXUURb/162764
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Campinas SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Campinas SD
+http://morpy99.org:80/P56KFk/aXUURb/157298
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Campos Dos Goytacazes HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Campos Dos Goytacazes HD
+http://morpy99.org:80/P56KFk/aXUURb/351573
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Campos Dos Goytacazes SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Campos Dos Goytacazes SD
+http://morpy99.org:80/P56KFk/aXUURb/351574
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Curitiba HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Curitiba HD
+http://morpy99.org:80/P56KFk/aXUURb/351575
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Curitiba SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Curitiba SD
+http://morpy99.org:80/P56KFk/aXUURb/351576
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record FHD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147655
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Florianópolis HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Florianópolis HD
+http://morpy99.org:80/P56KFk/aXUURb/351577
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Florianópolis SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Florianópolis SD
+http://morpy99.org:80/P56KFk/aXUURb/351578
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Fortaleza HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Fortaleza HD
+http://morpy99.org:80/P56KFk/aXUURb/351579
+#EXTINF:-1 tvg-id="" tvg-name="Record Fortaleza SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Fortaleza SD
+http://morpy99.org:80/P56KFk/aXUURb/351580
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Goias FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Goias FHD
+http://morpy99.org:80/P56KFk/aXUURb/162766
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Goias HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Goias HD
+http://morpy99.org:80/P56KFk/aXUURb/83252
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Goias HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Goias HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147656
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Goias SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Goias SD
+http://morpy99.org:80/P56KFk/aXUURb/162767
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Guaíba HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Guaíba HD
+http://morpy99.org:80/P56KFk/aXUURb/351581
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Guaíba SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Guaíba SD
+http://morpy99.org:80/P56KFk/aXUURb/351582
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147667
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Interior SP FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Interior SP FHD
+http://morpy99.org:80/P56KFk/aXUURb/162669
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Interior SP HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Interior SP HD
+http://morpy99.org:80/P56KFk/aXUURb/162670
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Litoral Vale do Parnaíba FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Litoral Vale do Parnaíba FHD
+http://morpy99.org:80/P56KFk/aXUURb/162668
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Litoral Vale do Parnaíba HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Litoral Vale do Parnaíba HD
+http://morpy99.org:80/P56KFk/aXUURb/162667
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Manaus HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Manaus HD
+http://morpy99.org:80/P56KFk/aXUURb/83465
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Manaus SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Manaus SD
+http://morpy99.org:80/P56KFk/aXUURb/147668
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Minas FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Minas FHD
+http://morpy99.org:80/P56KFk/aXUURb/147652
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Minas HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Minas HD
+http://morpy99.org:80/P56KFk/aXUURb/169517
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Minas HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Minas HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147660
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Minas SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Minas SD
+http://morpy99.org:80/P56KFk/aXUURb/152650
+#EXTINF:-1 tvg-id="br#record-news-hd" tvg-name="Record News FHD" tvg-logo="https://raphmx00.com/recordnews.png" group-title="Canais | Notícias",Record News FHD
+http://morpy99.org:80/P56KFk/aXUURb/139116
+#EXTINF:-1 tvg-id="br#record-news-hd" tvg-name="Record News HD" tvg-logo="https://raphmx00.com/recordnews.png" group-title="Canais | Notícias",Record News HD
+http://morpy99.org:80/P56KFk/aXUURb/83309
+#EXTINF:-1 tvg-id="br#record-news-hd" tvg-name="Record News SD" tvg-logo="https://raphmx00.com/recordnews.png" group-title="Canais | Notícias",Record News SD
+http://morpy99.org:80/P56KFk/aXUURb/83612
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Paranaíba de Uberlândia FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Paranaíba de Uberlândia FHD
+http://morpy99.org:80/P56KFk/aXUURb/247611
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Paranaíba de Uberlândia HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Paranaíba de Uberlândia HD
+http://morpy99.org:80/P56KFk/aXUURb/162762
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Recife HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Recife HD
+http://morpy99.org:80/P56KFk/aXUURb/351583
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Recife SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Recife SD
+http://morpy99.org:80/P56KFk/aXUURb/351584
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Ribeirão Preto HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Ribeirão Preto HD
+http://morpy99.org:80/P56KFk/aXUURb/351585
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Ribeirão Preto SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Ribeirão Preto SD
+http://morpy99.org:80/P56KFk/aXUURb/351586
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record RIC HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record RIC HD
+http://morpy99.org:80/P56KFk/aXUURb/83796
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Rio Preto FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Rio Preto FHD
+http://morpy99.org:80/P56KFk/aXUURb/83678
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Rio Preto HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Rio Preto HD
+http://morpy99.org:80/P56KFk/aXUURb/162666
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record RJ FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record RJ FHD
+http://morpy99.org:80/P56KFk/aXUURb/162969
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record RJ HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record RJ HD
+http://morpy99.org:80/P56KFk/aXUURb/157157
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record RJ HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record RJ HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147664
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record RJ SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record RJ SD
+http://morpy99.org:80/P56KFk/aXUURb/163031
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record RS FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record RS FHD
+http://morpy99.org:80/P56KFk/aXUURb/165435
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record RS HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record RS HD
+http://morpy99.org:80/P56KFk/aXUURb/147665
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record RS SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record RS SD
+http://morpy99.org:80/P56KFk/aXUURb/162770
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Santos e Vale HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Santos e Vale HD
+http://morpy99.org:80/P56KFk/aXUURb/351587
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Santos e Vale SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Santos e Vale SD
+http://morpy99.org:80/P56KFk/aXUURb/351588
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SIC TV Rondônia FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SIC TV Rondônia FHD
+http://morpy99.org:80/P56KFk/aXUURb/83696
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SIC TV Rondônia HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SIC TV Rondônia HD
+http://morpy99.org:80/P56KFk/aXUURb/162763
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP 4K" tvg-logo="https://i.imgur.com/LzwVYs3.png" group-title="Canais | 4K - H265",Record SP 4K
+http://morpy99.org:80/P56KFk/aXUURb/151036
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SP FHD
+http://morpy99.org:80/P56KFk/aXUURb/162663
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | 4K - H265",Record SP FHD [H265]
+http://morpy99.org:80/P56KFk/aXUURb/83430
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SP HD
+http://morpy99.org:80/P56KFk/aXUURb/83468
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP HD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SP HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147658
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SP SD
+http://morpy99.org:80/P56KFk/aXUURb/83613
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP SD [Alt]" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record SP SD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147657
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV Atalaia HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record TV Atalaia HD
+http://morpy99.org:80/P56KFk/aXUURb/83780
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV Cidade Ceará" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record TV Cidade Ceará
+http://morpy99.org:80/P56KFk/aXUURb/288606
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV MT HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record TV MT HD
+http://morpy99.org:80/P56KFk/aXUURb/83496
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV Vila Real FHD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record TV Vila Real FHD
+http://morpy99.org:80/P56KFk/aXUURb/83804
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV Vila Real HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record TV Vila Real HD
+http://morpy99.org:80/P56KFk/aXUURb/83520
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Vitória HD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Vitória HD
+http://morpy99.org:80/P56KFk/aXUURb/351589
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Vitória SD" tvg-logo="https://raphmx00.com/record.png" group-title="Canais | Record",Record Vitória SD
+http://morpy99.org:80/P56KFk/aXUURb/351590
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="Canais | 4K - H265",Rede TV 4K
+http://morpy99.org:80/P56KFk/aXUURb/151051
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV Brasília FHD" tvg-logo="https://raphmx00.com/tvbrasil.png" group-title="Canais | Abertos",Rede TV Brasília FHD
+http://morpy99.org:80/P56KFk/aXUURb/140896
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV Brasília HD" tvg-logo="https://raphmx00.com/tvbrasil.png" group-title="Canais | Abertos",Rede TV Brasília HD
+http://morpy99.org:80/P56KFk/aXUURb/140897
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV FHD" tvg-logo="https://raphmx00.com/redetv.png" group-title="Canais | Abertos",Rede TV FHD
+http://morpy99.org:80/P56KFk/aXUURb/140652
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV FHD [Alt]" tvg-logo="https://raphmx00.com/redetv.png" group-title="Canais | Abertos",Rede TV FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147673
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV FHD [H265]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/redetv.png" group-title="Canais | 4K - H265",Rede TV FHD [H265]
+http://morpy99.org:80/P56KFk/aXUURb/83413
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD" tvg-logo="https://raphmx00.com/redetv.png" group-title="Canais | Abertos",Rede TV HD
+http://morpy99.org:80/P56KFk/aXUURb/83253
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV HD [Alt]" tvg-logo="https://raphmx00.com/redetv.png" group-title="Canais | Abertos",Rede TV HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147674
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV SD" tvg-logo="https://raphmx00.com/redetv.png" group-title="Canais | Abertos",Rede TV SD
+http://morpy99.org:80/P56KFk/aXUURb/83616
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT 4K" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | 4K - H265",SBT 4K
+http://morpy99.org:80/P56KFk/aXUURb/169533
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Amazonas FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Amazonas FHD
+http://morpy99.org:80/P56KFk/aXUURb/289012
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Brasília FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Brasília FHD
+http://morpy99.org:80/P56KFk/aXUURb/165431
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Brasília HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Brasília HD
+http://morpy99.org:80/P56KFk/aXUURb/83474
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT FHD [Alt]" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147676
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT HD [Alt]" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147677
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Interior HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Interior HD
+http://morpy99.org:80/P56KFk/aXUURb/169525
+#EXTINF:-1 tvg-id="" tvg-name="SBT News FHD" tvg-logo="https://raphmx00.com/sbtnews.png" group-title="Canais | Notícias",SBT News FHD
+http://morpy99.org:80/P56KFk/aXUURb/147564
+#EXTINF:-1 tvg-id="" tvg-name="SBT News HD" tvg-logo="https://raphmx00.com/sbtnews.png" group-title="Canais | Notícias",SBT News HD
+http://morpy99.org:80/P56KFk/aXUURb/147570
+#EXTINF:-1 tvg-id="" tvg-name="SBT News SD" tvg-logo="https://raphmx00.com/sbtnews.png" group-title="Canais | Notícias",SBT News SD
+http://morpy99.org:80/P56KFk/aXUURb/147571
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Para HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Para HD
+http://morpy99.org:80/P56KFk/aXUURb/289001
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Piaui HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Piaui HD
+http://morpy99.org:80/P56KFk/aXUURb/289011
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Rede Massa HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Rede Massa HD
+http://morpy99.org:80/P56KFk/aXUURb/162848
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Riberão Preto HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Riberão Preto HD
+http://morpy99.org:80/P56KFk/aXUURb/289004
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT RJ FHD
+http://morpy99.org:80/P56KFk/aXUURb/83517
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT RJ HD
+http://morpy99.org:80/P56KFk/aXUURb/83513
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RJ SD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT RJ SD
+http://morpy99.org:80/P56KFk/aXUURb/165438
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RN HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT RN HD
+http://morpy99.org:80/P56KFk/aXUURb/289002
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RS FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT RS FHD
+http://morpy99.org:80/P56KFk/aXUURb/162797
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RS HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT RS HD
+http://morpy99.org:80/P56KFk/aXUURb/162798
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT RS SD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT RS SD
+http://morpy99.org:80/P56KFk/aXUURb/163268
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SCC HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT SCC HD
+http://morpy99.org:80/P56KFk/aXUURb/289003
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Serra Dourada HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT Serra Dourada HD
+http://morpy99.org:80/P56KFk/aXUURb/289006
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="Canais | 4K - H265",SBT SP 4K
+http://morpy99.org:80/P56KFk/aXUURb/151040
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT SP FHD
+http://morpy99.org:80/P56KFk/aXUURb/140653
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT SP HD
+http://morpy99.org:80/P56KFk/aXUURb/83476
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP SD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT SP SD
+http://morpy99.org:80/P56KFk/aXUURb/169523
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT São Luis Maranhão HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT São Luis Maranhão HD
+http://morpy99.org:80/P56KFk/aXUURb/289007
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Alterosa MG FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT TV Alterosa MG FHD
+http://morpy99.org:80/P56KFk/aXUURb/83495
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Alterosa MG HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT TV Alterosa MG HD
+http://morpy99.org:80/P56KFk/aXUURb/142101
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Alterosa MG SD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT TV Alterosa MG SD
+http://morpy99.org:80/P56KFk/aXUURb/283909
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Aratu Bahia HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT TV Aratu Bahia HD
+http://morpy99.org:80/P56KFk/aXUURb/289008
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Difusora Caxias HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT TV Difusora Caxias HD
+http://morpy99.org:80/P56KFk/aXUURb/289009
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Jangadeiro Ceará FHD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT TV Jangadeiro Ceará FHD
+http://morpy99.org:80/P56KFk/aXUURb/289005
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT TV Jornal Recife HD" tvg-logo="https://raphmx00.com/sbt.png" group-title="Canais | Abertos",SBT TV Jornal Recife HD
+http://morpy99.org:80/P56KFk/aXUURb/289010
+#EXTINF:-1 tvg-id="br#cultura" tvg-name="TV Cultura FHD" tvg-logo="https://raphmx00.com/tvcultura.png" group-title="Canais | Abertos",TV Cultura FHD
+http://morpy99.org:80/P56KFk/aXUURb/162747
+#EXTINF:-1 tvg-id="br#cultura" tvg-name="TV Cultura FHD [Alt]" tvg-logo="https://raphmx00.com/tvcultura.png" group-title="Canais | Abertos",TV Cultura FHD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/147498
+#EXTINF:-1 tvg-id="br#cultura" tvg-name="TV Cultura FHD [H265]" tvg-logo="https://raphmx00.com/tvcultura.png" group-title="Canais | 4K - H265",TV Cultura FHD [H265]
+http://morpy99.org:80/P56KFk/aXUURb/164572
+#EXTINF:-1 tvg-id="br#cultura" tvg-name="TV Cultura HD" tvg-logo="https://raphmx00.com/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD
+http://morpy99.org:80/P56KFk/aXUURb/162748
+#EXTINF:-1 tvg-id="br#cultura" tvg-name="TV Cultura HD [Alt]" tvg-logo="https://raphmx00.com/tvcultura.png" group-title="Canais | Abertos",TV Cultura HD [Alt]
+http://morpy99.org:80/P56KFk/aXUURb/151038
+#EXTINF:-1 tvg-id="br#cultura" tvg-name="TV Cultura SD" tvg-logo="https://raphmx00.com/tvcultura.png" group-title="Canais | Abertos",TV Cultura SD
+http://morpy99.org:80/P56KFk/aXUURb/83647
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="[24H] Os Simpsons 26" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 26
+http://morpy99.org:80/P56KFk/aXUURb/87735
+
+
 #EXTINF:-1 tvg-id="lch1211" tvg-name="Combate 4K" tvg-logo="https://raphmx00.com/combate.png" group-title="Canais | 4K - H265",Combate 4K
 http://morpy99.org:80/P56KFk/aXUURb/151035
 #EXTINF:-1 tvg-id="lch1211" tvg-name="Combate FHD" tvg-logo="https://raphmx00.com/combate.png" group-title="Canais | Esportes",Combate FHD
