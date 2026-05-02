@@ -1099,3 +1099,65 @@ http://morpy99.org:80/P56KFk/aXUURb/83623
 http://morpy99.org:80/P56KFk/aXUURb/83815
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 FHD [Alt]" tvg-logo="https://raphmx00.com/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD [Alt]
 http://morpy99.org:80/P56KFk/aXUURb/147684
+
+##### GLOBO #####
+#EXTINF:-1 tvg-name="Globo BA" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="Globo",Globo BA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-name="Globo SP" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="Globo",Globo SP
+https://agropesca.live/live/globosp/index.m3u8
+
+#EXTINF:-1 tvg-name="Globo RJ" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="Globo",Globo RJ
+https://agropesca.live/live/globorj/index.m3u8
+
+#EXTINF:-1 tvg-name="Globo MG" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="Globo",Globo MG
+http://38.247.134.19:80/live/92370341211/30082393260/375051
+
+##### SBT #####
+#EXTINF:-1 tvg-name="SBT SP" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="SBT",SBT SP
+http://dns.explouddev.com/live/360121095/Q360z4362q/244161.m3u8
+
+#EXTINF:-1 tvg-name="SBT BA" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="SBT",SBT BA
+http://dns.explouddev.com/live/360121095/Q360z4362q/377246.m3u8
+
+#EXTINF:-1 tvg-name="SBT RJ" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="SBT",SBT RJ
+https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
+
+##### RECORD #####
+#EXTINF:-1 tvg-name="Record SP" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="Record",Record SP
+http://dns.explouddev.com/live/360121095/Q360z4362q/244071.m3u8
+
+#EXTINF:-1 tvg-name="Record BA" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="Record",Record BA
+http://dns.explouddev.com/live/360121095/Q360z4362q/558027.m3u8
+
+##### BAND #####
+#EXTINF:-1 tvg-name="Band SP" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="Band",Band SP
+http://dns.explouddev.com/live/360121095/Q360z4362q/255465.m3u8
+
+#EXTINF:-1 tvg-name="Band BA" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="Band",Band BA
+http://dns.explouddev.com/live/360121095/Q360z4362q/286193.m3u8
+
+##### OUTROS #####
+#EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png" group-title="Abertos",TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w884249386.m3u8
+
+#EXTINF:-1 tvg-name="RedeTV" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redetv0001.png" group-title="Abertos",RedeTV
+http://dns.explouddev.com/live/360121095/Q360z4362q/80170.m3u8
+
+#EXTINF:-1 tvg-name="Rede Vida" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redevida0001.png" group-title="Religiosos",Rede Vida
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/49.m3u8
+
+#EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvaparecida0001.png" group-title="Religiosos",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvbrasil0001.png" group-title="Abertos",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-name="Canção Nova" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cancaonova0001.png" group-title="Religiosos",Canção Nova
+http://gerenciar.vivatele.com/viva_padrao/viva2384/5.m3u8
+
+#EXTINF:-1 tvg-name="TV Evangelizar" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvevangelizar0001.png" group-title="Religiosos",TV Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+
+#EXTINF:-1 tvg-name="Rede Brasil" tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png" group-title="Abertos",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
