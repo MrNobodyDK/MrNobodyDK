@@ -1,4 +1,1629 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Aeroporto Area Restrita
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38026.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Apenas um Show
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H As Visões da Raven
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38027.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24h Big Bang: A Teoria
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38018.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Bob Esponja Calça Quadrada
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H BoJack Horseman
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38021.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24h Boku no Hero Academia
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38019.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Chapolin Colorado
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Chaves
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Digimon Adventure
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38016.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Dois Homens e Meio
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H DPA - Detetives do Predio Azul
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38024.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Dragon Ball Z
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38015.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Familia Dinoussauros
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38025.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Ação
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38028.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Animação Infantil
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38029.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Comédia
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38030.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Drama
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38031.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Lancamentos
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38034.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Romance
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38032.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Suspense
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38033.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Futurama
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38023.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Galinha Pintadinha
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38022.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H iCarly Revival
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38009.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Largados e Pelados
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Naruto Shippuden
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Naruto Uzumaki
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Os Simpsons
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Snoopy
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38017.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H South Park
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38010.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Steven Universo
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38011.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Todo Mundo Odeia o Chris
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38014.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Truques da Mente
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38012.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Um Maluco no Pedaço
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/24h.png" group-title="Canais | 24 Horas",a Patroa e as Crianças
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/38003.m3u8
+#EXTINF:-1 tvg-id="80" tvg-logo="http://www.fontedecanais.me/logos/canais/agromais.png" group-title="Canais | Abertos",Agro+
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17049.m3u8
+#EXTINF:-1 tvg-id="328" tvg-logo="https://www.fontedecanais.me/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17042.m3u8
+#EXTINF:-1 tvg-id="338" tvg-logo="https://www.fontedecanais.me/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17043.m3u8
+#EXTINF:-1 tvg-id="175" tvg-logo="http://www.fontedecanais.me/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17003.m3u8
+#EXTINF:-1 tvg-id="175" tvg-logo="http://www.fontedecanais.me/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17004.m3u8
+#EXTINF:-1 tvg-id="175" tvg-logo="http://www.fontedecanais.me/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17005.m3u8
+#EXTINF:-1 tvg-id="95" tvg-logo="http://www.fontedecanais.me/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17006.m3u8
+#EXTINF:-1 tvg-id="95" tvg-logo="http://www.fontedecanais.me/logos/canais/futura.png" group-title="Canais | Abertos",Futura HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17007.m3u8
+#EXTINF:-1 tvg-id="95" tvg-logo="http://www.fontedecanais.me/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17036.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17037.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17038.m3u8
+#EXTINF:-1 tvg-id="397" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17039.m3u8
+#EXTINF:-1 tvg-id="397" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17040.m3u8
+#EXTINF:-1 tvg-id="397" tvg-logo="http://www.fontedecanais.me/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17041.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0idNHMj.png" group-title="Canais | Abertos",Terra Viva
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17050.m3u8
+#EXTINF:-1 tvg-id="61" tvg-logo="https://www.fontedecanais.me/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17044.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fontedecanais.me/logos/canais/tvcamara.png" group-title="Canais | Abertos",TV Camara
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17045.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo="http://www.fontedecanais.me/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17048.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fontedecanais.me/logos/canais/tvjustica.png" group-title="Canais | Abertos",TV Justica e Radio Justica
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17046.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fontedecanais.me/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17047.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="Canais | Abertos",TVE Bahia
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/17051.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Bahia FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Bahia HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Bahia SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Brasilia FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Brasilia HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Brasilia SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Campinas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Campinas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Campinas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Minas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28009.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Minas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28010.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Minas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28011.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Paraná FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28012.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Paraná HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Paraná SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28014.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Rio FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28015.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Rio Grande do Sul FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28018.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Rio Grande do Sul HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28019.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Rio Grande do Sul SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Rio HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28016.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band Rio SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28017.m3u8
+#EXTINF:-1 tvg-id="174" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band São Paulo FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28021.m3u8
+#EXTINF:-1 tvg-id="174" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band São Paulo HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28022.m3u8
+#EXTINF:-1 tvg-id="174" tvg-logo="http://www.fontedecanais.me/logos/canais/band.png" group-title="Canais | Band",Band São Paulo SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/28023.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/casadopatrao.png" group-title="Canais | Casa do Patrão",Casa do Patrao 01
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/11000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/casadopatrao.png" group-title="Canais | Casa do Patrão",Casa do Patrao 02
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/11001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/casadopatrao.png" group-title="Canais | Casa do Patrão",Casa do Patrao 03
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/11002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/casadopatrao.png" group-title="Canais | Casa do Patrão",Casa do Patrao 04
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/11003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/casadopatrao.png" group-title="Canais | Casa do Patrão",Casa do Patrao 05
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/11004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/casadopatrao.png" group-title="Canais | Casa do Patrão",Casa do Patrao 06
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/11005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/casadopatrao.png" group-title="Canais | Casa do Patrão",Casa do Patrao 07
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/11006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/casadopatrao.png" group-title="Canais | Casa do Patrão",Casa do Patrao 08
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/11007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 01
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 02
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 03
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 04
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 05
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 06
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 07
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 08
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 09
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 10
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/16009.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="http://www.fontedecanais.me/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23000.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="http://www.fontedecanais.me/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23001.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="http://www.fontedecanais.me/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23002.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="http://www.fontedecanais.me/logos/canais/arte1.png" group-title="Canais | Documentários",Arte1 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23003.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="http://www.fontedecanais.me/logos/canais/arte1.png" group-title="Canais | Documentários",Arte1 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23004.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="http://www.fontedecanais.me/logos/canais/arte1.png" group-title="Canais | Documentários",Arte1 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23005.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="http://www.fontedecanais.me/logos/canais/curta.png" group-title="Canais | Documentários",Curta! FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23006.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="http://www.fontedecanais.me/logos/canais/curta.png" group-title="Canais | Documentários",Curta! HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23007.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="http://www.fontedecanais.me/logos/canais/curta.png" group-title="Canais | Documentários",Curta! SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23008.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23009.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23010.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23011.m3u8
+#EXTINF:-1 tvg-id="116" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23012.m3u8
+#EXTINF:-1 tvg-id="116" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23013.m3u8
+#EXTINF:-1 tvg-id="116" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23014.m3u8
+#EXTINF:-1 tvg-id="117" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23015.m3u8
+#EXTINF:-1 tvg-id="117" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23016.m3u8
+#EXTINF:-1 tvg-id="117" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23017.m3u8
+#EXTINF:-1 tvg-id="118" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23018.m3u8
+#EXTINF:-1 tvg-id="118" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23019.m3u8
+#EXTINF:-1 tvg-id="118" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23020.m3u8
+#EXTINF:-1 tvg-id="85" tvg-logo="http://www.fontedecanais.me/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23021.m3u8
+#EXTINF:-1 tvg-id="85" tvg-logo="http://www.fontedecanais.me/logos/canais/h2.png" group-title="Canais | Documentários",H2 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23022.m3u8
+#EXTINF:-1 tvg-id="85" tvg-logo="http://www.fontedecanais.me/logos/canais/h2.png" group-title="Canais | Documentários",H2 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23023.m3u8
+#EXTINF:-1 tvg-id="115" tvg-logo="http://www.fontedecanais.me/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23024.m3u8
+#EXTINF:-1 tvg-id="115" tvg-logo="http://www.fontedecanais.me/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23025.m3u8
+#EXTINF:-1 tvg-id="115" tvg-logo="http://www.fontedecanais.me/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23026.m3u8
+#EXTINF:-1 tvg-id="84" tvg-logo="http://www.fontedecanais.me/logos/canais/history.png" group-title="Canais | Documentários",History FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23027.m3u8
+#EXTINF:-1 tvg-id="84" tvg-logo="http://www.fontedecanais.me/logos/canais/history.png" group-title="Canais | Documentários",History HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23028.m3u8
+#EXTINF:-1 tvg-id="84" tvg-logo="http://www.fontedecanais.me/logos/canais/history.png" group-title="Canais | Documentários",History SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23029.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="http://www.fontedecanais.me/logos/canais/id.png" group-title="Canais | Documentários",ID: Investigação Discovery FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23030.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="http://www.fontedecanais.me/logos/canais/id.png" group-title="Canais | Documentários",ID: Investigação Discovery HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23031.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="http://www.fontedecanais.me/logos/canais/id.png" group-title="Canais | Documentários",ID: Investigação Discovery SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/23032.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="http://www.fontedecanais.me/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22003.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="http://www.fontedecanais.me/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22004.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="http://www.fontedecanais.me/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22005.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="http://www.fontedecanais.me/logos/canais/espn3.png" group-title="Canais | ESPN",ESPN 3 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22006.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="http://www.fontedecanais.me/logos/canais/espn3.png" group-title="Canais | ESPN",ESPN 3 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22007.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="http://www.fontedecanais.me/logos/canais/espn3.png" group-title="Canais | ESPN",ESPN 3 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22008.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="http://www.fontedecanais.me/logos/canais/espn4.png" group-title="Canais | ESPN",ESPN 4 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22009.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="http://www.fontedecanais.me/logos/canais/espn4.png" group-title="Canais | ESPN",ESPN 4 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22010.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="http://www.fontedecanais.me/logos/canais/espn4.png" group-title="Canais | ESPN",ESPN 4 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22011.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="http://www.fontedecanais.me/logos/canais/espn5.png" group-title="Canais | ESPN",ESPN 5 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22012.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="http://www.fontedecanais.me/logos/canais/espn5.png" group-title="Canais | ESPN",ESPN 5 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22013.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="http://www.fontedecanais.me/logos/canais/espn5.png" group-title="Canais | ESPN",ESPN 5 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22014.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo="http://www.fontedecanais.me/logos/canais/espn6.png" group-title="Canais | ESPN",ESPN 6 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22015.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo="http://www.fontedecanais.me/logos/canais/espn6.png" group-title="Canais | ESPN",ESPN 6 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22016.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo="http://www.fontedecanais.me/logos/canais/espn6.png" group-title="Canais | ESPN",ESPN 6 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22017.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="http://www.fontedecanais.me/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22000.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="http://www.fontedecanais.me/logos/canais/espn.png" group-title="Canais | ESPN",ESPN HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22001.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="http://www.fontedecanais.me/logos/canais/espn.png" group-title="Canais | ESPN",ESPN SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/22002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/primevideo.png" group-title="Canais | Esportes",Amazon Prime Video 01
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19021.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/primevideo.png" group-title="Canais | Esportes",Amazon Prime Video 02
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19022.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/primevideo.png" group-title="Canais | Esportes",Amazon Prime Video 03
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19023.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="http://www.fontedecanais.me/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19000.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="http://www.fontedecanais.me/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19001.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="http://www.fontedecanais.me/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 01
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 02
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19081.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 03
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19082.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cazetv.png" group-title="Canais | Esportes",CazeTV 01
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19068.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cazetv.png" group-title="Canais | Esportes",CazeTV 02
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19069.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cazetv.png" group-title="Canais | Esportes",CazeTV 03
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19070.m3u8
+#EXTINF:-1 tvg-id="114" tvg-logo="http://www.fontedecanais.me/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19006.m3u8
+#EXTINF:-1 tvg-id="114" tvg-logo="http://www.fontedecanais.me/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19007.m3u8
+#EXTINF:-1 tvg-id="114" tvg-logo="http://www.fontedecanais.me/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 1
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19028.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 2
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19029.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="http://www.fontedecanais.me/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 3
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19030.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 1
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19041.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 10
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19050.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 11
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19051.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 12
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19052.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 13
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19053.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 14
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19054.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 15
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19055.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 16
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19056.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 17
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19057.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 18
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19058.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 19
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19059.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 2
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19042.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 20
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19060.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 3
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19043.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 4
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19044.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 5
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19045.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 6
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19046.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 7
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19047.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 8
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19048.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/disneyplus.png" group-title="Canais | Esportes",Disney+ 9
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19049.m3u8
+#EXTINF:-1 tvg-id="466" tvg-logo="http://www.fontedecanais.me/logos/canais/getv.png" group-title="Canais | Esportes",GE TV FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19009.m3u8
+#EXTINF:-1 tvg-id="466" tvg-logo="http://www.fontedecanais.me/logos/canais/getv.png" group-title="Canais | Esportes",GE TV HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19010.m3u8
+#EXTINF:-1 tvg-id="466" tvg-logo="http://www.fontedecanais.me/logos/canais/getv.png" group-title="Canais | Esportes",GE TV SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19011.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="http://www.fontedecanais.me/logos/canais/max.png" group-title="Canais | Esportes",MAX 01
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19033.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="http://www.fontedecanais.me/logos/canais/max.png" group-title="Canais | Esportes",MAX 02
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19034.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/max.png" group-title="Canais | Esportes",MAX 03
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19035.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/max.png" group-title="Canais | Esportes",MAX 04
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19036.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/max.png" group-title="Canais | Esportes",MAX 05
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19037.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/max.png" group-title="Canais | Esportes",MAX 06
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19038.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/max.png" group-title="Canais | Esportes",MAX 07
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19039.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 01
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19086.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 02
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19087.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 03
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19088.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 04
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19089.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 05
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19090.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 06
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19091.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 07
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19092.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 08
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19093.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 09
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19094.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/nba.png" group-title="Canais | Esportes",NBA 10
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19095.m3u8
+#EXTINF:-1 tvg-id="329" tvg-logo="http://www.fontedecanais.me/logos/canais/nsports.png" group-title="Canais | Esportes",NSports FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19064.m3u8
+#EXTINF:-1 tvg-id="329" tvg-logo="http://www.fontedecanais.me/logos/canais/nsports.png" group-title="Canais | Esportes",NSports HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19065.m3u8
+#EXTINF:-1 tvg-id="329" tvg-logo="http://www.fontedecanais.me/logos/canais/nsports.png" group-title="Canais | Esportes",NSports SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19066.m3u8
+#EXTINF:-1 tvg-id="89" tvg-logo="https://www.fontedecanais.me/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 1
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19071.m3u8
+#EXTINF:-1 tvg-id="90" tvg-logo="https://www.fontedecanais.me/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 2
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19072.m3u8
+#EXTINF:-1 tvg-id="91" tvg-logo="https://www.fontedecanais.me/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 3
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19073.m3u8
+#EXTINF:-1 tvg-id="92" tvg-logo="https://www.fontedecanais.me/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 4
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19074.m3u8
+#EXTINF:-1 tvg-id="296" tvg-logo="http://www.fontedecanais.me/logos/canais/sportynet.png" group-title="Canais | Esportes",SportyNet 01
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19024.m3u8
+#EXTINF:-1 tvg-id="297" tvg-logo="http://www.fontedecanais.me/logos/canais/sportynet2.png" group-title="Canais | Esportes",SportyNet 02
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19025.m3u8
+#EXTINF:-1 tvg-id="298" tvg-logo="http://www.fontedecanais.me/logos/canais/sportynet3.png" group-title="Canais | Esportes",SportyNet 03
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19026.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/sportynet.png" group-title="Canais | Esportes",SportyNet 04
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19027.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/ufc.png" group-title="Canais | Esportes",UFC FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/ufc.png" group-title="Canais | Esportes",UFC HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/ufc.png" group-title="Canais | Esportes",UFC SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19005.m3u8
+#EXTINF:-1 tvg-id="439" tvg-logo="http://www.fontedecanais.me/logos/canais/xsports.png" group-title="Canais | Esportes",XSports
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/19079.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="http://www.fontedecanais.me/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13000.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="http://www.fontedecanais.me/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13001.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="http://www.fontedecanais.me/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/amcseries.png" group-title="Canais | Filmes e Séries",AMC Séries FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13012.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/amcseries.png" group-title="Canais | Filmes e Séries",AMC Séries HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/amcseries.png" group-title="Canais | Filmes e Séries",AMC Séries SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13014.m3u8
+#EXTINF:-1 tvg-id="79" tvg-logo="http://www.fontedecanais.me/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13003.m3u8
+#EXTINF:-1 tvg-id="79" tvg-logo="http://www.fontedecanais.me/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13004.m3u8
+#EXTINF:-1 tvg-id="79" tvg-logo="http://www.fontedecanais.me/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13005.m3u8
+#EXTINF:-1 tvg-id="104" tvg-logo="http://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13006.m3u8
+#EXTINF:-1 tvg-id="104" tvg-logo="http://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13007.m3u8
+#EXTINF:-1 tvg-id="104" tvg-logo="http://www.fontedecanais.me/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13008.m3u8
+#EXTINF:-1 tvg-id="178" tvg-logo="http://www.fontedecanais.me/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13009.m3u8
+#EXTINF:-1 tvg-id="178" tvg-logo="http://www.fontedecanais.me/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13010.m3u8
+#EXTINF:-1 tvg-id="178" tvg-logo="http://www.fontedecanais.me/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13011.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo="http://www.fontedecanais.me/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13057.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo="http://www.fontedecanais.me/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13058.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo="http://www.fontedecanais.me/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13059.m3u8
+#EXTINF:-1 tvg-id="105" tvg-logo="http://www.fontedecanais.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13015.m3u8
+#EXTINF:-1 tvg-id="105" tvg-logo="http://www.fontedecanais.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13016.m3u8
+#EXTINF:-1 tvg-id="105" tvg-logo="http://www.fontedecanais.me/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13017.m3u8
+#EXTINF:-1 tvg-id="82" tvg-logo="http://www.fontedecanais.me/logos/canais/sonychannel.png" group-title="Canais | Filmes e Séries",Sony Channel FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13021.m3u8
+#EXTINF:-1 tvg-id="82" tvg-logo="http://www.fontedecanais.me/logos/canais/sonychannel.png" group-title="Canais | Filmes e Séries",Sony Channel HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13022.m3u8
+#EXTINF:-1 tvg-id="82" tvg-logo="http://www.fontedecanais.me/logos/canais/sonychannel.png" group-title="Canais | Filmes e Séries",Sony Channel SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13023.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/sonymovies.png" group-title="Canais | Filmes e Séries",Sony Movies FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13024.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/sonymovies.png" group-title="Canais | Filmes e Séries",Sony Movies HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13025.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/sonymovies.png" group-title="Canais | Filmes e Séries",Sony Movies SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13026.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="http://www.fontedecanais.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13027.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="http://www.fontedecanais.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13028.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="http://www.fontedecanais.me/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13029.m3u8
+#EXTINF:-1 tvg-id="106" tvg-logo="http://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13048.m3u8
+#EXTINF:-1 tvg-id="106" tvg-logo="http://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13049.m3u8
+#EXTINF:-1 tvg-id="106" tvg-logo="http://www.fontedecanais.me/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13050.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="http://www.fontedecanais.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13054.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="http://www.fontedecanais.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13055.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="http://www.fontedecanais.me/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13056.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="http://www.fontedecanais.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13039.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="http://www.fontedecanais.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13040.m3u8
+#EXTINF:-1 tvg-id="299" tvg-logo="http://www.fontedecanais.me/logos/canais/tntnovelas.png" group-title="Canais | Filmes e Séries",TNT Novelas FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13036.m3u8
+#EXTINF:-1 tvg-id="299" tvg-logo="http://www.fontedecanais.me/logos/canais/tntnovelas.png" group-title="Canais | Filmes e Séries",TNT Novelas HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13037.m3u8
+#EXTINF:-1 tvg-id="299" tvg-logo="http://www.fontedecanais.me/logos/canais/tntnovelas.png" group-title="Canais | Filmes e Séries",TNT Novelas SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13038.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="http://www.fontedecanais.me/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13041.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="http://www.fontedecanais.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Séries FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13042.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="http://www.fontedecanais.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Séries HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13043.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="http://www.fontedecanais.me/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Séries SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13044.m3u8
+#EXTINF:-1 tvg-id="102" tvg-logo="http://www.fontedecanais.me/logos/canais/universaltv.png" group-title="Canais | Filmes e Séries",Universal TV FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13045.m3u8
+#EXTINF:-1 tvg-id="102" tvg-logo="http://www.fontedecanais.me/logos/canais/universaltv.png" group-title="Canais | Filmes e Séries",Universal TV HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13046.m3u8
+#EXTINF:-1 tvg-id="102" tvg-logo="http://www.fontedecanais.me/logos/canais/universaltv.png" group-title="Canais | Filmes e Séries",Universal TV SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13047.m3u8
+#EXTINF:-1 tvg-id="103" tvg-logo="http://www.fontedecanais.me/logos/canais/usa.png" group-title="Canais | Filmes e Séries",USA FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13033.m3u8
+#EXTINF:-1 tvg-id="103" tvg-logo="http://www.fontedecanais.me/logos/canais/usa.png" group-title="Canais | Filmes e Séries",USA HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13034.m3u8
+#EXTINF:-1 tvg-id="103" tvg-logo="http://www.fontedecanais.me/logos/canais/usa.png" group-title="Canais | Filmes e Séries",USA SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13035.m3u8
+#EXTINF:-1 tvg-id="83" tvg-logo="http://www.fontedecanais.me/logos/canais/warnerchannel.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13051.m3u8
+#EXTINF:-1 tvg-id="83" tvg-logo="http://www.fontedecanais.me/logos/canais/warnerchannel.png" group-title="Canais | Filmes e Séries",Warner Channel HD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13052.m3u8
+#EXTINF:-1 tvg-id="83" tvg-logo="http://www.fontedecanais.me/logos/canais/warnerchannel.png" group-title="Canais | Filmes e Séries",Warner Channel SD
+https://logsplay.b-cdn.net/movie/plus_5zjic67n/UQYMnuNYmaA0/13053.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18009.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18010.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18011.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18012.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18014.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18015.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18016.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18017.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18018.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18019.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18021.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18022.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18023.m3u8
+#EXTINF:-1 tvg-id="124" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18024.m3u8
+#EXTINF:-1 tvg-id="124" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18025.m3u8
+#EXTINF:-1 tvg-id="124" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18026.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18027.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18028.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18029.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18030.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18031.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18032.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18033.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18034.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18035.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18036.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18037.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18038.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18039.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18040.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18041.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18042.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18043.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18044.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18045.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18046.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18047.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18249.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18250.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18251.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18048.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18049.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18050.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18051.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18052.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18053.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18054.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18055.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18056.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18057.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18058.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18059.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18060.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18061.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18062.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18063.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18064.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18065.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18216.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18217.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18218.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18246.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18247.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18248.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18066.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18067.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18068.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18258.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18259.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Cruz SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18260.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18219.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18220.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18221.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18081.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18082.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18083.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18069.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18070.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18071.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18072.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18073.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18074.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18075.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18076.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18077.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18078.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18079.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18084.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18085.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18086.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18087.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18088.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18089.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18090.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18091.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18092.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18093.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18094.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18095.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18096.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18097.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18098.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18099.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18100.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18101.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18102.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18103.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18104.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18105.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18106.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18107.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18108.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18109.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18110.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18111.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18112.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18113.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18114.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18115.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18116.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18255.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18256.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18257.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18222.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18223.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca de Alagoas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18224.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18117.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18118.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18119.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18120.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18121.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18122.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18123.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18124.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18125.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18126.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18127.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18128.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18228.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18229.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18230.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18225.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18226.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18227.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Clube FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18129.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Clube HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18130.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Clube SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18131.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18132.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18133.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18134.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18252.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18253.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18254.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18135.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18136.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18137.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18138.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18139.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18140.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18237.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18238.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18239.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18141.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18142.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18143.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18243.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18244.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18245.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18240.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18241.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18242.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18144.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18145.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18146.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18147.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18148.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18149.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18150.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18151.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18152.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18153.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18154.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18155.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18156.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18157.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18158.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18159.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18160.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18161.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18162.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18163.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18164.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18231.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18232.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18233.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18234.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18235.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18236.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18165.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18166.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18167.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18168.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18169.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18170.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18171.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18172.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18173.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18174.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18175.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18176.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18177.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18178.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18179.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18180.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18181.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18182.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18183.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18184.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18185.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18186.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18187.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18188.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18189.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18190.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18191.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18192.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18193.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18194.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18195.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18196.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18197.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18198.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18199.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18200.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18201.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18202.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18203.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18204.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18205.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18206.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18207.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18208.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18209.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18210.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18211.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18212.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18213.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18214.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/18215.m3u8
+#EXTINF:-1 tvg-id="261" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14003.m3u8
+#EXTINF:-1 tvg-id="261" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14004.m3u8
+#EXTINF:-1 tvg-id="261" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14005.m3u8
+#EXTINF:-1 tvg-id="263" tvg-logo="http://www.fontedecanais.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14006.m3u8
+#EXTINF:-1 tvg-id="263" tvg-logo="http://www.fontedecanais.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14007.m3u8
+#EXTINF:-1 tvg-id="263" tvg-logo="http://www.fontedecanais.me/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14008.m3u8
+#EXTINF:-1 tvg-id="260" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14000.m3u8
+#EXTINF:-1 tvg-id="260" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14001.m3u8
+#EXTINF:-1 tvg-id="266" tvg-logo="http://www.fontedecanais.me/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14009.m3u8
+#EXTINF:-1 tvg-id="266" tvg-logo="http://www.fontedecanais.me/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14010.m3u8
+#EXTINF:-1 tvg-id="266" tvg-logo="http://www.fontedecanais.me/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14011.m3u8
+#EXTINF:-1 tvg-id="262" tvg-logo="http://www.fontedecanais.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14012.m3u8
+#EXTINF:-1 tvg-id="262" tvg-logo="http://www.fontedecanais.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14013.m3u8
+#EXTINF:-1 tvg-id="262" tvg-logo="http://www.fontedecanais.me/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14014.m3u8
+#EXTINF:-1 tvg-id="265" tvg-logo="http://www.fontedecanais.me/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14015.m3u8
+#EXTINF:-1 tvg-id="265" tvg-logo="http://www.fontedecanais.me/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14016.m3u8
+#EXTINF:-1 tvg-id="265" tvg-logo="http://www.fontedecanais.me/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14017.m3u8
+#EXTINF:-1 tvg-id="260" tvg-logo="http://www.fontedecanais.me/logos/canais/hbo.png" group-title="Canais | HBO",HBO SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14002.m3u8
+#EXTINF:-1 tvg-id="264" tvg-logo="http://www.fontedecanais.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14018.m3u8
+#EXTINF:-1 tvg-id="264" tvg-logo="http://www.fontedecanais.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14019.m3u8
+#EXTINF:-1 tvg-id="264" tvg-logo="http://www.fontedecanais.me/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14020.m3u8
+#EXTINF:-1 tvg-id="267" tvg-logo="http://www.fontedecanais.me/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14021.m3u8
+#EXTINF:-1 tvg-id="267" tvg-logo="http://www.fontedecanais.me/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14022.m3u8
+#EXTINF:-1 tvg-id="267" tvg-logo="http://www.fontedecanais.me/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/14023.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/boxkids.png" group-title="Canais | Infantis",Box Kids FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/boxkids.png" group-title="Canais | Infantis",Box Kids HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/boxkids.png" group-title="Canais | Infantis",Box Kids SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24002.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="http://www.fontedecanais.me/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24003.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="http://www.fontedecanais.me/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24004.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="http://www.fontedecanais.me/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24005.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="http://www.fontedecanais.me/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24006.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="http://www.fontedecanais.me/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24007.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="http://www.fontedecanais.me/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24008.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24009.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24010.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="http://www.fontedecanais.me/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24011.m3u8
+#EXTINF:-1 tvg-id="93" tvg-logo="http://www.fontedecanais.me/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24015.m3u8
+#EXTINF:-1 tvg-id="93" tvg-logo="http://www.fontedecanais.me/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24016.m3u8
+#EXTINF:-1 tvg-id="93" tvg-logo="http://www.fontedecanais.me/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24017.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="http://www.fontedecanais.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24018.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="http://www.fontedecanais.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24019.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="http://www.fontedecanais.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24027.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24028.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24029.m3u8
+#EXTINF:-1 tvg-id="62" tvg-logo="http://www.fontedecanais.me/logos/canais/tvratimbum.png" group-title="Canais | Infantis",TV Rá Tim Bum FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24039.m3u8
+#EXTINF:-1 tvg-id="62" tvg-logo="http://www.fontedecanais.me/logos/canais/tvratimbum.png" group-title="Canais | Infantis",TV Rá Tim Bum HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24040.m3u8
+#EXTINF:-1 tvg-id="62" tvg-logo="http://www.fontedecanais.me/logos/canais/tvratimbum.png" group-title="Canais | Infantis",TV Rá Tim Bum SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24041.m3u8
+#EXTINF:-1 tvg-id="49" tvg-logo="http://www.fontedecanais.me/logos/canais/zoomoo.png" group-title="Canais | Infantis",ZooMoo FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24030.m3u8
+#EXTINF:-1 tvg-id="49" tvg-logo="http://www.fontedecanais.me/logos/canais/zoomoo.png" group-title="Canais | Infantis",ZooMoo HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24031.m3u8
+#EXTINF:-1 tvg-id="49" tvg-logo="http://www.fontedecanais.me/logos/canais/zoomoo.png" group-title="Canais | Infantis",ZooMoo SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/24032.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="http://www.fontedecanais.me/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25000.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="http://www.fontedecanais.me/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25001.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="http://www.fontedecanais.me/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25002.m3u8
+#EXTINF:-1 tvg-id="77" tvg-logo="http://www.fontedecanais.me/logos/canais/cnnbrasil.png" group-title="Canais | Notícias",CNN Brasil FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25003.m3u8
+#EXTINF:-1 tvg-id="77" tvg-logo="http://www.fontedecanais.me/logos/canais/cnnbrasil.png" group-title="Canais | Notícias",CNN Brasil HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25004.m3u8
+#EXTINF:-1 tvg-id="77" tvg-logo="http://www.fontedecanais.me/logos/canais/cnnbrasil.png" group-title="Canais | Notícias",CNN Brasil SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25005.m3u8
+#EXTINF:-1 tvg-id="349" tvg-logo="http://www.fontedecanais.me/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25015.m3u8
+#EXTINF:-1 tvg-id="349" tvg-logo="http://www.fontedecanais.me/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25016.m3u8
+#EXTINF:-1 tvg-id="349" tvg-logo="http://www.fontedecanais.me/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25017.m3u8
+#EXTINF:-1 tvg-id="78" tvg-logo="http://www.fontedecanais.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25006.m3u8
+#EXTINF:-1 tvg-id="78" tvg-logo="http://www.fontedecanais.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25007.m3u8
+#EXTINF:-1 tvg-id="78" tvg-logo="http://www.fontedecanais.me/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25008.m3u8
+#EXTINF:-1 tvg-id="187" tvg-logo="http://www.fontedecanais.me/logos/canais/jpnews.png" group-title="Canais | Notícias",Jovem Pan News FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25009.m3u8
+#EXTINF:-1 tvg-id="187" tvg-logo="http://www.fontedecanais.me/logos/canais/jpnews.png" group-title="Canais | Notícias",Jovem Pan News HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25010.m3u8
+#EXTINF:-1 tvg-id="187" tvg-logo="http://www.fontedecanais.me/logos/canais/jpnews.png" group-title="Canais | Notícias",Jovem Pan News SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25011.m3u8
+#EXTINF:-1 tvg-id="182" tvg-logo="http://www.fontedecanais.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25012.m3u8
+#EXTINF:-1 tvg-id="182" tvg-logo="http://www.fontedecanais.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25013.m3u8
+#EXTINF:-1 tvg-id="182" tvg-logo="http://www.fontedecanais.me/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25014.m3u8
+#EXTINF:-1 tvg-id="469" tvg-logo="http://www.fontedecanais.me/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25021.m3u8
+#EXTINF:-1 tvg-id="469" tvg-logo="http://www.fontedecanais.me/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25022.m3u8
+#EXTINF:-1 tvg-id="469" tvg-logo="http://www.fontedecanais.me/logos/canais/sbtnews.png" group-title="Canais | Notícias",SBT News SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25023.m3u8
+#EXTINF:-1 tvg-id="339" tvg-logo="http://www.fontedecanais.me/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25018.m3u8
+#EXTINF:-1 tvg-id="339" tvg-logo="http://www.fontedecanais.me/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25019.m3u8
+#EXTINF:-1 tvg-id="339" tvg-logo="http://www.fontedecanais.me/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/25020.m3u8
+#EXTINF:-1 tvg-id="107" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",﻿Premiere 1 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20000.m3u8
+#EXTINF:-1 tvg-id="107" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 1 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20001.m3u8
+#EXTINF:-1 tvg-id="107" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 1 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20002.m3u8
+#EXTINF:-1 tvg-id="108" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20003.m3u8
+#EXTINF:-1 tvg-id="108" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20004.m3u8
+#EXTINF:-1 tvg-id="108" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20005.m3u8
+#EXTINF:-1 tvg-id="109" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20006.m3u8
+#EXTINF:-1 tvg-id="109" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20007.m3u8
+#EXTINF:-1 tvg-id="109" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20008.m3u8
+#EXTINF:-1 tvg-id="110" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20009.m3u8
+#EXTINF:-1 tvg-id="110" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20010.m3u8
+#EXTINF:-1 tvg-id="110" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20011.m3u8
+#EXTINF:-1 tvg-id="111" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20012.m3u8
+#EXTINF:-1 tvg-id="111" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20013.m3u8
+#EXTINF:-1 tvg-id="111" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20014.m3u8
+#EXTINF:-1 tvg-id="112" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20015.m3u8
+#EXTINF:-1 tvg-id="112" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20016.m3u8
+#EXTINF:-1 tvg-id="112" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20017.m3u8
+#EXTINF:-1 tvg-id="113" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20018.m3u8
+#EXTINF:-1 tvg-id="113" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20019.m3u8
+#EXTINF:-1 tvg-id="113" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20020.m3u8
+#EXTINF:-1 tvg-id="351" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20021.m3u8
+#EXTINF:-1 tvg-id="351" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20022.m3u8
+#EXTINF:-1 tvg-id="351" tvg-logo="http://www.fontedecanais.me/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/20023.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia Itabuna SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bahia SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27009.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27010.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Bauru SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27011.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27012.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Belém SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27014.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27015.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27016.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Brasília SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27017.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27018.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27019.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campinas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27020.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27021.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27022.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Campos dos Goytacazes SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27023.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27024.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27025.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Curitiba SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27026.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27027.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27028.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Florianópolis SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27029.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27030.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27031.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Fortaleza SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27032.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27033.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27034.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Goiás SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27035.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27036.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27037.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Guaíba SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27038.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27039.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27040.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Manaus SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27041.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27042.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27043.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Minas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27044.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27045.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27046.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Recife SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27047.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27048.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27049.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Ribeirão Preto SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27050.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27051.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27052.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27054.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27055.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio Preto SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27056.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27053.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27057.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27058.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Santos e Vale SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27059.m3u8
+#EXTINF:-1 tvg-id="186" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27060.m3u8
+#EXTINF:-1 tvg-id="186" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27061.m3u8
+#EXTINF:-1 tvg-id="186" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV São Paulo SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27062.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27063.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27064.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/record.png" group-title="Canais | Record TV",Record TV Vitória SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/27065.m3u8
+#EXTINF:-1 tvg-id="300" tvg-logo="http://www.fontedecanais.me/logos/canais/cancaonova.png" group-title="Canais | Religiosos",Canção Nova
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/novotempo.png" group-title="Canais | Religiosos",Novo Tempo
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/cnt.png" group-title="Canais | Religiosos",Rede CNT
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/redefamilia.png" group-title="Canais | Religiosos",Rede Familia
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26002.m3u8
+#EXTINF:-1 tvg-id="59" tvg-logo="http://www.fontedecanais.me/logos/canais/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26003.m3u8
+#EXTINF:-1 tvg-id="60" tvg-logo="http://www.fontedecanais.me/logos/canais/redevida.png" group-title="Canais | Religiosos",Rede Vida
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Religiosos",Sem Canal
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26008.m3u8
+#EXTINF:-1 tvg-id="320" tvg-logo="http://www.fontedecanais.me/logos/canais/tvaparecida.png" group-title="Canais | Religiosos",TV Aparecida
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/tvevangelizar.png" group-title="Canais | Religiosos",TV Evangelizar
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26009.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/tvpaieterno.png" group-title="Canais | Religiosos",TV Pai Eterno
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/26007.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21003.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21004.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21005.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21006.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21007.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv4.png" group-title="Canais | SporTV",SporTV 4 FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21009.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv4.png" group-title="Canais | SporTV",SporTV 4 HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21010.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv4.png" group-title="Canais | SporTV",SporTV 4 SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21011.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21000.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21001.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="http://www.fontedecanais.me/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/21002.m3u8
+#EXTINF:-1 tvg-id="69" tvg-logo="http://www.fontedecanais.me/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15000.m3u8
+#EXTINF:-1 tvg-id="69" tvg-logo="http://www.fontedecanais.me/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15001.m3u8
+#EXTINF:-1 tvg-id="69" tvg-logo="http://www.fontedecanais.me/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15002.m3u8
+#EXTINF:-1 tvg-id="73" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15003.m3u8
+#EXTINF:-1 tvg-id="73" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15004.m3u8
+#EXTINF:-1 tvg-id="73" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15005.m3u8
+#EXTINF:-1 tvg-id="71" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15006.m3u8
+#EXTINF:-1 tvg-id="71" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15007.m3u8
+#EXTINF:-1 tvg-id="71" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15008.m3u8
+#EXTINF:-1 tvg-id="72" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15009.m3u8
+#EXTINF:-1 tvg-id="72" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15010.m3u8
+#EXTINF:-1 tvg-id="72" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15011.m3u8
+#EXTINF:-1 tvg-id="68" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15012.m3u8
+#EXTINF:-1 tvg-id="68" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15013.m3u8
+#EXTINF:-1 tvg-id="68" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15014.m3u8
+#EXTINF:-1 tvg-id="70" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15015.m3u8
+#EXTINF:-1 tvg-id="70" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15016.m3u8
+#EXTINF:-1 tvg-id="70" tvg-logo="http://www.fontedecanais.me/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/15017.m3u8
+#EXTINF:-1 tvg-id="86" tvg-logo="http://www.fontedecanais.me/logos/canais/ae.png" group-title="Canais | Variedades",A&E FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12000.m3u8
+#EXTINF:-1 tvg-id="86" tvg-logo="http://www.fontedecanais.me/logos/canais/ae.png" group-title="Canais | Variedades",A&E HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12001.m3u8
+#EXTINF:-1 tvg-id="86" tvg-logo="http://www.fontedecanais.me/logos/canais/ae.png" group-title="Canais | Variedades",A&E SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12002.m3u8
+#EXTINF:-1 tvg-id="322" tvg-logo="http://www.fontedecanais.me/logos/canais/adultswim.png" group-title="Canais | Variedades",Adult Swim FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12057.m3u8
+#EXTINF:-1 tvg-id="322" tvg-logo="http://www.fontedecanais.me/logos/canais/adultswim.png" group-title="Canais | Variedades",Adult Swim HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12058.m3u8
+#EXTINF:-1 tvg-id="322" tvg-logo="http://www.fontedecanais.me/logos/canais/adultswim.png" group-title="Canais | Variedades",Adult Swim SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12059.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png" group-title="Canais | Variedades",BIS FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12003.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png" group-title="Canais | Variedades",BIS HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12004.m3u8
+#EXTINF:-1 tvg-id="101" tvg-logo="http://www.fontedecanais.me/logos/canais/bis.png" group-title="Canais | Variedades",BIS SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12005.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryhh.png" group-title="Canais | Variedades",Discovery H&H FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12012.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryhh.png" group-title="Canais | Variedades",Discovery H&H HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12013.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryhh.png" group-title="Canais | Variedades",Discovery H&H SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12014.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12015.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12016.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="http://www.fontedecanais.me/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12017.m3u8
+#EXTINF:-1 tvg-id="87" tvg-logo="http://www.fontedecanais.me/logos/canais/e.png" group-title="Canais | Variedades",E! FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12018.m3u8
+#EXTINF:-1 tvg-id="87" tvg-logo="http://www.fontedecanais.me/logos/canais/e.png" group-title="Canais | Variedades",E! HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12019.m3u8
+#EXTINF:-1 tvg-id="87" tvg-logo="http://www.fontedecanais.me/logos/canais/e.png" group-title="Canais | Variedades",E! SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12020.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="http://www.fontedecanais.me/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12021.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="http://www.fontedecanais.me/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12022.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="http://www.fontedecanais.me/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12023.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="http://www.fontedecanais.me/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12024.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="http://www.fontedecanais.me/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12025.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="http://www.fontedecanais.me/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12026.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="http://www.fontedecanais.me/logos/canais/globoplaynovelas.png" group-title="Canais | Variedades",Globoplay Novelas FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12060.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="http://www.fontedecanais.me/logos/canais/globoplaynovelas.png" group-title="Canais | Variedades",Globoplay Novelas HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12061.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="http://www.fontedecanais.me/logos/canais/globoplaynovelas.png" group-title="Canais | Variedades",Globoplay Novelas SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12062.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="http://www.fontedecanais.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12027.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="http://www.fontedecanais.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12028.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="http://www.fontedecanais.me/logos/canais/gnt.png" group-title="Canais | Variedades",GNT SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12029.m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="http://www.fontedecanais.me/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12030.m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="http://www.fontedecanais.me/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12031.m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="http://www.fontedecanais.me/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12032.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="http://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12033.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="http://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12034.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="http://www.fontedecanais.me/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12035.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="http://www.fontedecanais.me/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12045.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="http://www.fontedecanais.me/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12046.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="http://www.fontedecanais.me/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12047.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="http://www.fontedecanais.me/logos/canais/off.png" group-title="Canais | Variedades",Off FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12048.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="http://www.fontedecanais.me/logos/canais/off.png" group-title="Canais | Variedades",Off HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12049.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="http://www.fontedecanais.me/logos/canais/off.png" group-title="Canais | Variedades",Off SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12050.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="http://www.fontedecanais.me/logos/canais/tlc.png" group-title="Canais | Variedades",TLC FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12051.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="http://www.fontedecanais.me/logos/canais/tlc.png" group-title="Canais | Variedades",TLC HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12052.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="http://www.fontedecanais.me/logos/canais/tlc.png" group-title="Canais | Variedades",TLC SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12053.m3u8
+#EXTINF:-1 tvg-id="64" tvg-logo="http://www.fontedecanais.me/logos/canais/tracebrasil.png" group-title="Canais | Variedades",Trace Brasil FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12039.m3u8
+#EXTINF:-1 tvg-id="64" tvg-logo="http://www.fontedecanais.me/logos/canais/tracebrasil.png" group-title="Canais | Variedades",Trace Brasil HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12040.m3u8
+#EXTINF:-1 tvg-id="64" tvg-logo="http://www.fontedecanais.me/logos/canais/tracebrasil.png" group-title="Canais | Variedades",Trace Brasil SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12041.m3u8
+#EXTINF:-1 tvg-id="75" tvg-logo="http://www.fontedecanais.me/logos/canais/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brazil FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12054.m3u8
+#EXTINF:-1 tvg-id="75" tvg-logo="http://www.fontedecanais.me/logos/canais/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brazil HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12055.m3u8
+#EXTINF:-1 tvg-id="75" tvg-logo="http://www.fontedecanais.me/logos/canais/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brazil SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12056.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="http://www.fontedecanais.me/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo FHD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12063.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="http://www.fontedecanais.me/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo HD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12064.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="http://www.fontedecanais.me/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo SD
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/12065.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult IPTV Brunette
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40016.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult IPTV Sexy Blondes
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40017.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Live Cams
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40011.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Interracial
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40014.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV online Latina
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Lesbian
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40012.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Milfs
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40010.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Pornstar
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40009.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online POV
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40008.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Erotic TV Online
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Videos Non Stop
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40007.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Web Tv
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",Live Adult TV Hardcore
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40015.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",PLAYBOY
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",SEX PRIVE
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",SEXTREME
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",SEXY HOT
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40003.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | XXX Adultos",VENUS
+https://logsplay.b-cdn.net/live/plus_5zjic67n/UQYMnuNYmaA0/40004.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg", SBT
 https://s1.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
 
